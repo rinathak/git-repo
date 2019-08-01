@@ -1,3 +1,5 @@
 print("Hello!;")
 print("HelloWorld!;")
 print("Hello;")
+print("Hello my deaer friend;")
+print("Glad to see you;")
